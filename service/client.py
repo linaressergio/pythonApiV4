@@ -1,7 +1,7 @@
 """ Class representing a client
     """
 class Client():
-""" Class representing a client"""
+
     def __init__(self, name, last_name, doc_id):
         """ init client"""
         self.name = name
